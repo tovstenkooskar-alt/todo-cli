@@ -3,7 +3,7 @@ from todo.commands import add_task, list_tasks, mark_done, remove_task
 
 def main():
     if len(sys.argv) < 2:
-        print("конфликт")
+        print("конфликт1111")
         return
     
     cmd = sys.argv[1]
